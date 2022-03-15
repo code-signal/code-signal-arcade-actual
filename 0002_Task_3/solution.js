@@ -1,0 +1,5 @@
+function almostIncreasingSequence(seq) {
+
+}
+  
+  
